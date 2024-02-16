@@ -43,7 +43,7 @@ afterEvaluate {
 
                 groupId = 'com.github.mycariq-02'
                 artifactId = 'utility-lib'
-                version = '1.0.1'
+                version = '1.0.3'
             }
         }
 
